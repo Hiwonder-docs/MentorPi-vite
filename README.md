@@ -1,6 +1,6 @@
-# DaDablock AI Documentation
+# MentorPi Documentation
 
-This repository contains the DaDablock AI VitePress documentation site. The
+This repository contains the MentorPi VitePress documentation site. The
 documentation source files are Markdown files under `docs/docs/`.
 
 ## Local development
@@ -19,7 +19,7 @@ npm run docs:build
 npm run docs:stage-main
 ```
 
-The staged production files are generated in `projects/DaDablock AI/en/latest/`.
+The staged production files are generated in `projects/MentorPi/en/latest/`.
 
 ## GitHub Pages deployment
 
@@ -30,11 +30,11 @@ The build artifacts under `projects/` are committed to the repository. Open
 The GitHub Pages direct URL is:
 
 ```text
-https://GITHUB-USERNAME.github.io/DaDablock AI-vite/projects/DaDablock AI/en/latest/
+https://GITHUB-USERNAME.github.io/MentorPi-vite/projects/MentorPi/en/latest/
 ```
 
 The public-facing URL (via the baota Nginx reverse proxy) is:
 
 ```text
-https://wiki-test.hiwonder.com/projects/DaDablock AI/en/latest/
+https://wiki-test.hiwonder.com/projects/MentorPi/en/latest/
 ```
