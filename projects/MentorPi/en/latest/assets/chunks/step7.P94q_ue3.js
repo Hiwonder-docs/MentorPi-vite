@@ -1,1 +1,1 @@
-const t="/projects/MentorPi/en/latest/assets/step7.JZXBZ46t.jpg";export{t as _};
+const t="/projects/MentorPi/en/latest/assets/step7.JZXBZ46t.webp";export{t as _};
