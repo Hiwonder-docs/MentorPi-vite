@@ -1,0 +1,13 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, ak as createStaticVNode } from "./chunks/framework.-lCow04Z.js";
+const __pageData = JSON.parse('{"title":"Appendix","description":"","frontmatter":{},"headers":[],"relativePath":"docs/resources_download.md","filePath":"docs/resources_download.md"}');
+const _sfc_main = { name: "docs/resources_download.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return openBlock(), createElementBlock("div", null, [..._cache[0] || (_cache[0] = [
+    createStaticVNode('<h1 id="appendix" tabindex="-1">Appendix <a class="header-anchor" href="#appendix" aria-label="Permalink to &quot;Appendix&quot;">​</a></h1><ul><li>System Image &amp; Source Code：If you want to get the system image and source code, please email us at <a href="mailto:support@hiwonder.com" target="_blank" rel="noreferrer">support@hiwonder.com</a>, and share your order number 😃</li><li>Google Drive：<a href="https://drive.google.com/drive/folders/1P00n6IemouAnga8EjpO7suF3Mou8zv4K?usp=sharing" target="_blank" rel="noreferrer">MentorPi Resources</a></li><li>Remote Connection Tool：<a href="https://drive.google.com/drive/folders/1tuLiyDqFkQFRH9_YP8XjIYQ9y92Mwobb?usp=sharing" target="_blank" rel="noreferrer">Remote Connection Tool</a></li><li>SD Card Formatting Tool：<a href="https://drive.google.com/drive/folders/1AvMmmMVWxs3upEoT4rtJxFqCIBjbYPSr?usp=sharing" target="_blank" rel="noreferrer">SD Card Formatting Tool</a></li><li>Image Flashing Tool：<a href="https://drive.google.com/drive/folders/1b-Y1rOtLUlXGuvFJxetp2bzLI8xaZENj?usp=sharing" target="_blank" rel="noreferrer">Image Flashing Tool</a></li><li>File Transfer Tool：<a href="https://drive.google.com/drive/folders/1ed-EHGmXd-Z8Mhhdzj5YUgeJA4sroC5f?usp=sharing" target="_blank" rel="noreferrer">File Transfer Tool</a></li><li>Virtual Machine Installation Pack：<a href="https://drive.google.com/drive/folders/13zM251tk7UkDw_XXBoarpLjSGOrXAfr3?usp=sharing" target="_blank" rel="noreferrer">Virtual Machine Installation Pack</a></li><li>APP Installation Pack (Android)：<a href="https://play.google.com/store/apps/details?id=com.Wonder.Pi" target="_blank" rel="noreferrer">WonderPi</a></li><li>APP Installation Pack (iOS)：<a href="https://apps.apple.com/cn/app/wonderpi/id1477946178" target="_blank" rel="noreferrer">WonderPi</a></li><li>Firmware Flashing Tool.rar：<a href="https://drive.google.com/drive/folders/132zZtcvXVp55YJEhTdqgVLAm4w7tebHC" target="_blank" rel="noreferrer">Firmware Flashing Tool.rar</a></li></ul>', 2)
+  ])]);
+}
+const resources_download = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  resources_download as default
+};
